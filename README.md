@@ -1,2 +1,2 @@
 # Prototype-Qt
-A prototype of Windows application based on Qt.
+A prototype of Linux application based on Qt.
